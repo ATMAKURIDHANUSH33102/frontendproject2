@@ -9,7 +9,7 @@ function App() {
     <>
       <h1>Welcome to FED class in klu</h1>
       <h2>Today's topic is introduction to react</h2>
-      <h3>Date is 23/7/2025</h3>
+      <h3>Date is 29/7/2025</h3>
       <h4>A.Dhanush</h4> 
       <Link to="/Page1"> Go To Page1 </Link>
       <br /><br /><br />
