@@ -31,7 +31,7 @@ extends Component {
             <p>This is an example page which can adopt any screen size</p>
         </section>
         <footer>
-
+            copyright @ 2025 All rights reserved
         </footer>
 
       </div>
